@@ -3,8 +3,8 @@
 
 A Flutter library for visually displaying keyboard shortcuts on the screen.
 
-![arrow_up](assets/arrow_up.png)
-![escape](assets/escape.png)
+![arrow_up](https://raw.githubusercontent.com/reitmas32/shortcuts_display/main/assets/arrow_up.png)
+![escape](https://raw.githubusercontent.com/reitmas32/shortcuts_display/main/assets/escape.png)
 
 
 ## Features:
